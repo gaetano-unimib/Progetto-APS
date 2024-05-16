@@ -1,0 +1,2 @@
+Caso d'uso registra utente
+- aggiungi estensione per registrazione fallita
