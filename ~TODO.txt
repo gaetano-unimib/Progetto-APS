@@ -1,3 +1,6 @@
+GENERALI
+aggiornare diagramma classi
+
 Caso d'uso registra utente
 - aggiungi estensione per registrazione fallita
 - correggere caso if in ssd
