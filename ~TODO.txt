@@ -1,3 +1,7 @@
+CORREZIONE MODELLO DI DOMINIO	
+- Rimuovere metodi
+- Introdurre classe prodotto e generalizzazioni necessarie
+
 GENERALI
 aggiornare diagramma classi
 formattare schemi
