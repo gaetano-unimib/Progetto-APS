@@ -9,3 +9,7 @@ formattare schemi
 Caso d'uso registra utente
 - aggiungi estensione per registrazione fallita
 - correggere caso if in ssd
+
+
+PATTERN USATI
+Singleton - EmailProvider
