@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+TASK 2
+Modifica ssd cancelllazionePrenotazione
+Modifica caso d'uso gestisci richieste
+
+=======
+CORREZIONE MODELLO DI DOMINIO	
+- Rimuovere metodi
+- Introdurre classe prodotto e generalizzazioni necessarie
+>>>>>>> b740b959e750d7d15286405997b98638e562bcfd
+
 GENERALI
 aggiornare diagramma classi
 formattare schemi
@@ -5,3 +16,7 @@ formattare schemi
 Caso d'uso registra utente
 - aggiungi estensione per registrazione fallita
 - correggere caso if in ssd
+
+
+PATTERN USATI
+Singleton - EmailProvider
