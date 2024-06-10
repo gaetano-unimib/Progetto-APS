@@ -1,22 +1,10 @@
-<<<<<<< HEAD
-TASK 2
-Modifica ssd cancelllazionePrenotazione
-Modifica caso d'uso gestisci richieste
-
-=======
-CORREZIONE MODELLO DI DOMINIO	
-- Rimuovere metodi
-- Introdurre classe prodotto e generalizzazioni necessarie
->>>>>>> b740b959e750d7d15286405997b98638e562bcfd
-
-GENERALI
-aggiornare diagramma classi
-formattare schemi
-
-Caso d'uso registra utente
-- aggiungi estensione per registrazione fallita
-- correggere caso if in ssd
-
-
-PATTERN USATI
-Singleton - EmailProvider
+ DONE - aggiornare il diagramma dei casi d’uso;
+ - ogni studente trattare una delle funzionalità in elenco e descrivere in formato dettagliato tutti i casi d’uso coinvolti in quest’ultima, cioè casi d’uso preesistenti che avete dovuto modificare e casi d’uso nuovi;
+DONE - se lo si ritiene opportuno, aggiornare il modello di dominio;
+ - ogni studente modellare i casi d’uso trattati in termini di diagrammi di sequenza di sistema;
+ - ogni studente identificare un’operazione di sistema fra le nuove e descriverla in termini di contratto;
+ - ogni studente produrre un diagramma di sequenza relativo all’operazione di sistema scelta;
+ - ogni studente individuare un caso d’uso associato alla funzionalità prescelta e modellarlo con un diagramma di attività;
+ - produrre un diagramma delle classi di progettazione parziale, dove risultino dettagliate e coerenti tutte le parti ivi trattate;
+ - descrivere tutti i pattern GRASP e design pattern applicati;
+ - produrre un documento di relazione PDF che raccolga tutti gli artefatti prodotti (diagrammi, casi d’uso in formato dettagliato, contratti, pattern applicati ed eventuali altre scelte), specificando i singoli autori delle varie parti, incluso l’intero gruppo.
